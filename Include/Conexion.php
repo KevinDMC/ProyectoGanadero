@@ -1,3 +1,4 @@
+/*SI SE SUBIO*/
 <?php
     $password = "";
     $dbname = "vacunos";
